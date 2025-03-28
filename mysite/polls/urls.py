@@ -1,5 +1,5 @@
 from django.urls import path
-
+"Fonctionne avec views.py comme un routeur"
 from . import views
 
 app_name = "polls"
